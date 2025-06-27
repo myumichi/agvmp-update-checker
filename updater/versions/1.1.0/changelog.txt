@@ -1,0 +1,5 @@
+- unlisted the modpack (finally)
+- replaced geophilic with WWOO
+- rebalanced diamond ore generation
+- replaced sleepwarp with steve's realistic sleep
+- removed troubleshooting mods
