@@ -1,0 +1,3 @@
+- nerfed diamond gen as they appeared too frequently
+- addded chat heads and what are they up to
+- made visual workbench work with more modded crafting tables
