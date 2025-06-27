@@ -31,6 +31,16 @@
                     "modrinth": "https://modrinth.com/modpack/agv+/"
                 }
             }
+        },
+        {
+            "id": "1.3.0",
+            "releasedAt": 1751043600,
+            "updateType": "minor",
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/modpack/agv+/"
+                }
+            }
         }
     ]
 }
