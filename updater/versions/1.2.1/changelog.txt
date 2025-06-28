@@ -1,1 +1,3 @@
 - added modpack update checker
+- updated fancymenu to reflect update checker
+- updated complementary reimagined to 5.5.1 and euphoriapatches to 1.6.5
