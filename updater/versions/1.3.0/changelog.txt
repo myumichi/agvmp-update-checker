@@ -1,0 +1,3 @@
+- added multiple bee related mods (realistic bees, self care hive, beedance)
+- added friends&foes along with its addons
+- tweaked shaders a tiny bit when the season is spring
